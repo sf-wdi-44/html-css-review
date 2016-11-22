@@ -61,7 +61,7 @@ If you were asked to build this mobile with HTML and CSS, what classes and ids w
 
 ## Discussion
 
-Answer the questions assigned to your group. Feel free to do some research if you're not sure!
+Answer the questions assigned to your group and record your responses on [this google doc](https://docs.google.com/document/d/1EeXEKl-14EH9PbtB1_93NHaVzqVlbPmI8u4dppBcfwk/edit?usp=sharing). Feel free to do some research if you're not sure!
 
 **Group 1:**
 * What does CSS stand for? How is each word significant?
@@ -100,7 +100,7 @@ Refer to [resource.md](resource.md), [WDI fundamentals](http://fundamentals.gene
 
 ## Independent Practice
 
-Check your understanding with this site recreation [training](https://github.com/sf-wdi-31/site-recreation)!  This is a common web development interview task, especially for front end roles.
+Check your understanding with this site recreation [training](https://github.com/sf-wdi-34/site-recreation)!  This is a common web development interview task, especially for front end roles.
 
 
 ## Closing Thoughts
@@ -123,4 +123,3 @@ The most important things to practice right now are:
 * [HTML Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS-tricks](https://css-tricks.com/)
-
