@@ -1,5 +1,5 @@
 <!--
-Creator: <Name>
+Creator: SF WDI team - editing by Cory Fauver
 Market: SF
 -->
 
@@ -119,6 +119,7 @@ The most important things to practice right now are:
 
 ### More Resources
 
+* [Learn CSS layout](http://learnlayout.com/)
 * [CSS Zen Garden](http://www.csszengarden.com/)
 * [HTML Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
