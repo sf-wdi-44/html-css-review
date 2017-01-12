@@ -1,5 +1,5 @@
 <!--
-Creator: SF WDI team - editing by Cory Fauver
+Creator: SF WDI team - editing by Cory Fauver and Michelle Ferreirae
 Market: SF
 -->
 
@@ -40,7 +40,7 @@ CSS lets us style a web page, creating sites that stand out visually. It is an i
 
 Many sources compare well-structured HTML to a tree. We can also think of it as a top-down architecture, like a [mobile](https://en.wikipedia.org/wiki/Mobile_(sculpture)).
 
-If you were asked to build this mobile with HTML and CSS, what classes and ids would you use?
+If you were asked to build this mobile with HTML and CSS, what `class`es and `id`s would you use?
 
 ### Check For Understanding
 
@@ -61,7 +61,7 @@ If you were asked to build this mobile with HTML and CSS, what classes and ids w
 
 ## Discussion
 
-Answer the questions assigned to your group and record your responses on [this google doc](https://docs.google.com/document/d/1EeXEKl-14EH9PbtB1_93NHaVzqVlbPmI8u4dppBcfwk/edit?usp=sharing). Feel free to do some research if you're not sure!
+Answer the questions assigned to your group and record your responses on [this google doc](https://docs.google.com/document/d/1-UcTtzyCdG3CqL3BgNPMSci3kn4KPfGLatYHcSJshvw/edit?usp=sharing). Feel free to do some research if you're not sure!
 
 **Group 1:**
 * What does CSS stand for? How is each word significant?
