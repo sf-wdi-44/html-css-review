@@ -107,7 +107,7 @@ Check your understanding with this site recreation [training](https://github.com
 
 Semantic HTML is an expectation among modern web developers. Take care to choose semantic HTML elements, class names, and ids. (Semantic naming is also a best practice in JavaScript and across programming languages.)
 
-Masterful CSS requires a lot of memorization (to know what properties can be changed) and experimentation. Don't be afraid to look things up and try things out. You'll build your toolkit over time.  
+Masterful CSS requires a lot of memorization (to know what properties can be changed) and experimentation. Don't be afraid to look things up and try things out. You'll build your toolkit over time, and you'll continue searching for the properties you need even as an expert developer.
 
 The most important things to practice right now are:
 
