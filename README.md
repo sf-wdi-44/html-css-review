@@ -61,7 +61,7 @@ If you were asked to build this mobile with HTML and CSS, what `class`es and `id
 
 ## Discussion
 
-Answer the questions assigned to your group and record your responses on [this google doc](https://docs.google.com/document/d/1-UcTtzyCdG3CqL3BgNPMSci3kn4KPfGLatYHcSJshvw/edit?usp=sharing). Feel free to do some research if you're not sure!
+Answer the questions assigned to your group and record your responses on the board. Feel free to do some research if you're not sure!
 
 **Group 1:**
 * What does CSS stand for? How is each word significant?
