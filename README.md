@@ -40,7 +40,7 @@ CSS lets us style a web page, creating sites that stand out visually. It is an i
 
 Many sources compare well-structured HTML to a tree. We can also think of it as a top-down architecture, like a [mobile](https://en.wikipedia.org/wiki/Mobile_(sculpture)).
 
-If you were asked to build this mobile with HTML and CSS, what `class`es and `id`s would you use?
+If you were asked to build this mobile with HTML and CSS, what classes and ids would you use?
 
 ### Check For Understanding
 
