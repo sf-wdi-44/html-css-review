@@ -61,46 +61,13 @@ If you were asked to build this mobile with HTML and CSS, what `class`es and `id
 
 ## Discussion
 
-Answer the questions assigned to your group and record your responses on the board. Feel free to do some research if you're not sure!
+Answer the [questions](https://docs.google.com/document/d/1-UcTtzyCdG3CqL3BgNPMSci3kn4KPfGLatYHcSJshvw/edit) assigned to your group and record your responses on the board. Feel free to do some research if you're not sure! Some places to check: [resource.md](resource.md), [WDI fundamentals](http://fundamentals.generalassemb.ly/), or the sites in [More Resources](#more-resources).
 
-**Group 1:**
-* What does CSS stand for? How is each word significant?
-* What is "semantic" HTML?
-* Explain the differences between an element, a class, and an id.
-
-**Group 2:**
-* Describe the concept of CSS specificity.
-* Where are three *places* you can associate CSS code with an HTML document? Which one is considered a best practice, and why?
-* Explain some differences between fluid and responsive layouts.
-
-**Group 3:**
-* Draw the CSS Box Model.
-* Why does HTML have attributes?  Give a few examples.
-* What does `display: none;` do?
-
-**Group 4:**
-
-* What does `absolute` positioning do?
-* What does `fixed` positioning do?
-* What does `relative` positioning do?
-
-**Group 5:**
-
-* What does the `float` property do, and what are its possible values?
-* What does the `clear` property do, and what are its possible values?
-* What is `clearfix`?
-
-**Group 6:**
-
-* What are block elements? What does `display: block;` do?
-* What are inline elements? What does `display: inline;`  do?
-* What is inline-block?
-
-Refer to [resource.md](resource.md), [WDI fundamentals](http://fundamentals.generalassemb.ly/), or the sites in [More Resources](#more-resources) for information on these questions!
+AFTER we have gone around and talked about your answers to these questions, please have someone from your team type up your answers in the Google doc.
 
 ## Independent Practice
 
-Check your understanding with this site recreation [training](https://github.com/sf-wdi-34/site-recreation)!  This is a common web development interview task, especially for front end roles.
+Check your understanding with this site recreation [training](https://github.com/SF-WDI-LABS/site-recreation)!  This is a common web development interview task, especially for front end roles.
 
 
 ## Closing Thoughts
