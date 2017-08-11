@@ -61,7 +61,7 @@ If you were asked to build this mobile with HTML and CSS, what classes and ids w
 
 ## Discussion
 
-Answer the [questions](https://docs.google.com/document/d/1-UcTtzyCdG3CqL3BgNPMSci3kn4KPfGLatYHcSJshvw/edit) assigned to your group and record your responses on the board. Feel free to do some research if you're not sure! Some places to check: [resource.md](resource.md), [WDI fundamentals](http://fundamentals.generalassemb.ly/), or the sites in [More Resources](#more-resources).
+Answer the [questions](https://docs.google.com/document/d/1KyKeZrdqM40FXD-dSgky5FhtaX8ckyakOIJBCkaSZWg/edit) assigned to your group and record your responses on the board. Feel free to do some research if you're not sure! Some places to check: [resource.md](resource.md), [WDI fundamentals](http://fundamentals.generalassemb.ly/), or the sites in [More Resources](#more-resources).
 
 AFTER we have gone around and talked about your answers to these questions, please have someone from your team type up your answers in the Google doc.
 
