@@ -44,7 +44,7 @@ If you were asked to build this mobile with HTML and CSS, what classes and ids w
 
 ### Check For Understanding
 
-1. Sketch out a wireframe for the website from the following image, and label it with semantic HTML elements, class names, or ids.
+1. Sketch out a wireframe for the website from the following image, and label it with [semantic HTML elements](https://www.w3schools.com/html/html5_semantic_elements.asp), class names, or ids.
 
   ![](https://cloud.githubusercontent.com/assets/3254910/17682332/b2c259dc-62ff-11e6-9fdd-7bd0bb620ba9.png)
 
