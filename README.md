@@ -38,9 +38,9 @@ CSS lets us style a web page, creating sites that stand out visually. It is an i
 
 ![calder-mobile](https://cloud.githubusercontent.com/assets/7833470/10673045/8edabf9c-78a8-11e5-9c61-5587d2389da9.jpg)
 
-Many sources compare well-structured HTML to a tree. We can also think of it as a top-down architecture, like a [mobile](https://en.wikipedia.org/wiki/Mobile_(sculpture)).
+Many sources compare well-structured HTML to a tree. We can also think of it as a top-down architecture, like a mobile or a file directory system (i.e. certain elements contain other elements, which may also contain other elements).
 
-If you were asked to build this mobile with HTML and CSS, what classes and ids would you use?
+Semantic HTML is HTML that reinforces the semantics, or meaning, of the information in webpages, rather than merely define its presentation or look. Its [benefits](https://stackoverflow.com/a/1729758) include intelligent styling and context-specific rules.
 
 ### Check For Understanding
 
